@@ -1,0 +1,59 @@
+h1{
+    color: maroon;
+}
+
+.info{
+    background-color: blanchedalmond;
+    height: 200px;
+    width:400px;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.user{
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+div a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkviolet;
+}
+.content{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: indigo;
+}
+.id{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkmagenta;
+
+}
+
+a{
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: crimson;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.form-control{
+    width:400px;
+    height:100px;
+    margin-left: 10px;
+}
+
+.form-control_1{
+    width:100px;
+    height:50px;
+    margin-left: 10px;
+}
+.btn {
+    margin-left: 10px;
+}
+.input-group-text{
+    width:500px;
+    height:35px;
+    margin-left: 10px;
+}
